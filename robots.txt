@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wissen-bleibt.de/sitemap-index.xml

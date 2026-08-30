@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Wissen bleibt.</title>
+    <link>https://rabaninc.github.io/</link>
+    <description>Wissensverlust im produzierenden Mittelstand — belegt statt behauptet.</description>
+    <language>de-DE</language>
+    <item>
+      <title>Jedes dritte Industrieunternehmen rechnet damit, dass das Wissen mitgeht</title>
+      <link>https://rabaninc.github.io/wissen-bleibt/artikel/wissen-geht-mit-industrie/</link>
+      <guid>https://rabaninc.github.io/wissen-bleibt/artikel/wissen-geht-mit-industrie/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Der DIHK hat über 21.000 Betriebe gefragt, was sie vom Fachkräftemangel erwarten. Die Antwort mit der größten Sprengkraft für die Produktion steht auf Seite 18.</description>
+    </item>
+    <item>
+      <title>13,3 Millionen — die Größenordnung, um die es geht</title>
+      <link>https://rabaninc.github.io/wissen-bleibt/artikel/dreizehn-millionen/</link>
+      <guid>https://rabaninc.github.io/wissen-bleibt/artikel/dreizehn-millionen/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Bis 2040 erreicht knapp ein Drittel der heutigen Erwerbspersonen das Rentenalter. Die interessantere Zahl ist aber nicht die Gesamtsumme, sondern wo sich die Jahrgänge stauen.</description>
+    </item>
+    <item>
+      <title>Jeder vierte Betrieb macht zu, statt zu übergeben</title>
+      <link>https://rabaninc.github.io/wissen-bleibt/artikel/vierter-betrieb-macht-zu/</link>
+      <guid>https://rabaninc.github.io/wissen-bleibt/artikel/vierter-betrieb-macht-zu/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Das KfW-Nachfolge-Monitoring zählt jährlich rund 114.000 geplante Geschäftsaufgaben im Mittelstand. Der häufigste Grund ist nicht wirtschaftlicher Misserfolg.</description>
+    </item>
+  </channel>
+</rss>
